@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-12-31T05:00:00Z
-draft = true
 excerpt = "I've been, you know"
 hero = "/images/sp-jumbotron-custom-lg.jpg"
 timeToRead = 5
