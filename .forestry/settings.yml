@@ -24,13 +24,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "**/_index.md"
-  templates:
-  - author
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
