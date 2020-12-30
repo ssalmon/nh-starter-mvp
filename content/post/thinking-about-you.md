@@ -1,22 +1,28 @@
 +++
 authors = []
-date = 2020-12-29T05:00:00Z
+date = 2020-12-31T05:00:00Z
 draft = true
 excerpt = "I've been, you know"
-hero = "/images/appicon.icns"
-timeToRead = 10
-title = "Thinking about you"
+hero = "/images/sp-jumbotron-custom-lg.jpg"
+timeToRead = 5
+title = "Cofefe"
 
 +++
-# So I was thinking about something
-
-### What is the meaning of things
+# Testing a page
 
 So if we consider the proper discussion of problem
 
+I want to have a list
+
+> One thing
+
+1. Another thing
+
+* List one
+
 ![](/images/favicon.svg)
 
-Consider this image above 
+Consider this image above
 
 > If I weren't an imaginary piece of content, I don't know where I would be.
 
